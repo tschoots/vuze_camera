@@ -1,0 +1,7 @@
+# update clevo775dm3 drivers
+http://www.clevo.com/en/e-services/download/ftpOut.asp?Lmodel=P7xxDM2%2FP7xxDM3&ltype=9&submit=+GO+
+
+# installation choose "RealSpace360 software"
+https://youtu.be/1iUb2aHZSAs
+
+# in oculus "open video VR"
